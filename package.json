@@ -1,0 +1,19 @@
+{
+  "name": "aflab03",
+  "version": "1.0.0",
+  "description": "application frameworks lab03",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanknimsara/AFLab03.git"
+  },
+  "author": "Ashan K Nimsara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashanknimsara/AFLab03/issues"
+  },
+  "homepage": "https://github.com/ashanknimsara/AFLab03#readme"
+}
